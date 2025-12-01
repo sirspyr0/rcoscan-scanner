@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "RCOSCAN Scanner",
+    "slug": "rcoscan-scanner",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "description": "Live police scanner feed for Riverside County, CA with audio playback",
+    "primaryColor": "#007AFF",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourname.rcoscanscanner",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "This app does not use your microphone",
+        "NSCameraUsageDescription": "This app does not use your camera"
+      }
+    },
+    "android": {
+      "package": "com.yourname.rcoscanscanner",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "predictiveBackGestureEnabled": false,
+      "permissions": [
+        "INTERNET",
+        "ACCESS_NETWORK_STATE",
+        "INTERNET",
+        "ACCESS_NETWORK_STATE"
+      ]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6ea8ea98-20ca-47a8-8add-dd411f677064"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/6ea8ea98-20ca-47a8-8add-dd411f677064"
+    }
+  }
+}

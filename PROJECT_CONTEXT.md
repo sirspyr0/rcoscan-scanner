@@ -15,12 +15,12 @@
 **Company:** Galilee Gallery  
 **Email:** leondaspaul3@gmail.com  
 **Phone:** (910) 206-4996  
-**GitHub Username:** sirspyr0 (formerly: artichoku)
+**GitHub Username:** sirspyr0
 
 ## Repository Structure
 
 ### Public Repository
-- **GitHub:** https://github.com/artichoku/rcoscan-scanner
+- **GitHub:** https://github.com/sirspyr0/rcoscan-scanner
 - **Contains:** React Native source, Expo config, TypeScript
 - **Branch:** main
 

@@ -8,7 +8,7 @@ Live police scanner feed for Riverside County, CA with audio playback capability
 
 **Expo Go:** https://expo.dev/@artichoke/rcoscan-scanner
 
-**GitHub Repository:** https://github.com/artichoku/rcoscan-scanner
+**GitHub Repository:** https://github.com/sirspyr0/rcoscan-scanner
 
 **Expo Project Dashboard:** https://expo.dev/accounts/artichoke/projects/rcoscan-scanner
 
@@ -39,7 +39,7 @@ Live police scanner feed for Riverside County, CA with audio playback capability
 
 ```bash
 # Clone the repository
-git clone https://github.com/artichoku/rcoscan-scanner.git
+git clone https://github.com/sirspyr0/rcoscan-scanner.git
 
 # Navigate to project directory
 cd rcoscan-scanner
